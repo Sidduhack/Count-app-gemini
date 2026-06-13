@@ -1,0 +1,6 @@
+{
+  "name": "Fast Counter",
+  "description": "Count multiple items in your photos or camera feed quickly by providing a reference sample of one item.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
